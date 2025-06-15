@@ -1,0 +1,7 @@
+transformers
+safetensors
+huggingface-hub
+modelscan
+torch
+llm-guard
+garak
